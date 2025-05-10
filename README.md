@@ -25,9 +25,5 @@ To run iNotebook locally, follow these steps:
 ```bash
 git clone https://github.com/your-repo/inotebook.git
 cd inotebook
-### **2 install dependency**
-   ```sh
-   npm install
-### **3.Start the Development Server**
-    ```sh
-   npm run both
+npm install
+npm run both
